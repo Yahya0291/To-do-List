@@ -1,2 +1,4 @@
 Simple command line todolist
-Used inquirer and if elsenpm version patch
+Used inquirer and if else
+
+npm version patch
